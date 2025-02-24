@@ -1,0 +1,374 @@
+#main {
+  background-color: rgb(0, 0, 51);
+  display: flex;
+  flex-direction: row;
+
+  align-items: flex-start;
+}
+#main2 {
+  background-color: rgb(22, 22, 54);
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  padding-left: 30px;
+}
+.albutton {
+  background-color: rgb(22, 22, 54);
+  color: aliceblue;
+  border: none;
+  height: 40px;
+}
+.abutton {
+  background-color: rgb(22, 22, 54);
+  color: aliceblue;
+  border: none;
+  align-self: center;
+}
+#logo {
+  border-radius: 40px;
+  height: 5%;
+  width: 5%;
+  margin: 10px;
+}
+
+.loca {
+  color: aliceblue;
+  height: 10%;
+  width: 10%;
+  margin-left: 10px;
+  align-self: center;
+  margin-left: 40px;
+}
+#search {
+  background-color: rgb(245, 245, 245);
+  color: black;
+  height: 42px;
+  width: 40%;
+  align-self: center;
+  border: none;
+  padding-left: 10px;
+  margin-left: 40px;
+}
+.sebuton {
+  height: 44px;
+  align-self: center;
+  margin-right: 5px;
+  background-color: rgb(56, 56, 59);
+  color: aliceblue;
+  border: none;
+  width: 6%;
+}
+.sign {
+  color: aliceblue;
+  height: 10%;
+  width: 10%;
+  align-self: center;
+  margin-left: 40px;
+}
+#cart {
+  align-self: center;
+  margin-left: 40px;
+}
+.return {
+  color: aliceblue;
+  height: 10%;
+  width: 10%;
+  align-self: center;
+  margin-left: 40px;
+}
+.cart {
+  color: aliceblue;
+  height: 10%;
+  width: 10%;
+  align-self: center;
+}
+.img4 {
+  width: 98.5%;
+  height: 50vh;
+  margin: 7px;
+}
+#md {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border-radius: 10px;
+  gap: 5px;
+  padding: 5px;
+}
+.im {
+  width: 40%;
+  height: 25%;
+  border-radius: 8px;
+  margin-left: 9px;
+}
+.d {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  padding: 3px;
+  flex-wrap: wrap;
+  width: 23%;
+  height: 60%;
+  border-radius: 5px;
+  box-shadow: 6px 3px 20px 0px rgba(0, 0, 0, 0.5);
+}
+.d1 {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  padding: 3px;
+  flex-wrap: wrap;
+  width: 23%;
+  height: 60%;
+  border-radius: 5px;
+  box-shadow: 6px 3px 20px 0px rgba(0, 0, 0, 0.5);
+}
+.im1 {
+  width: 45%;
+  height: 50%;
+  border-radius: 8px;
+  margin-left: 9px;
+  margin-bottom: 35px;
+  margin-top: 20px;
+}
+
+.imn {
+  width: 45%;
+  height: 60%;
+  border-radius: 8px;
+  margin: 5px;
+  margin-top: 20px;
+  margin-bottom: 33px;
+}
+.video1 {
+  border-radius: 40px;
+  height: 370px;
+  width: 99.5%;
+  margin-top: 30px;
+  box-shadow: 6px 3px 20px 0px rgba(0, 0, 0, 0.5);
+}
+.video2 {
+  height: 88vh;
+  width: 97.8vw;
+  box-shadow: 6px 3px 20px 0px rgba(0, 0, 0, 0.5);
+  margin-top: 30px;
+}
+
+.videoooo {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.image {
+  border-radius: 10px;
+  height: 100%;
+  width: 90%;
+}
+.image1 {
+  height: inherit;
+  width: 80%;
+  border-radius: 10px;
+}
+.image2 {
+  height: inherit;
+  width: 100%;
+  border-radius: 10px;
+  margin-left: -20px;
+}
+.image3 {
+  height: 81%;
+  width: 85%;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+.image4 {
+  height: inherit;
+  width: 100%;
+  border-radius: 10px;
+  margin-left: -20px;
+  margin: -15;
+}
+.imgcontain {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  gap: 20px;
+}
+.contain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.pic {
+  border-radius: 9px;
+  height: 30%;
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 40px;
+  padding-top: 15px;
+  padding-left: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 1);
+}
+.buy {
+  border-radius: 40px;
+  background-color: rgb(4, 0, 37);
+  color: rgb(252, 252, 252);
+  text-align: center;
+  width: 280px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 30px;
+}
+.buy a {
+  color: aliceblue;
+  text-decoration: none;
+}
+.tain {
+  text-align: center;
+}
+.tain img {
+  width: 250px;
+  height: 250px;
+  display: block;
+  margin-bottom: 10px;
+}
+.video5 {
+  height: 70vh;
+  width: 97.8vw;
+  margin-top: 30px;
+  box-shadow: 6px 3px 20px 0px rgba(0, 0, 0, 0.5);
+}
+
+.hea1 {
+  margin-left: 35px;
+}
+.he1 {
+  margin-left: 20px;
+  font-size: medium;
+}
+.HEAD {
+  margin-left: 33%;
+}
+.HEA {
+  margin-left: 42%;
+  background-color: rgb(255, 238, 0);
+  width: 17%;
+
+  border-radius: 10px;
+  border: none;
+  font-size: larger;
+}
+
+#foot {
+  background-color: rgb(30, 30, 44);
+  border-radius: 10px;
+}
+.footdi {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px;
+  gap: 30px;
+  margin: 10px;
+}
+.footdiv {
+  color: aliceblue;
+  margin-left: 80px;
+}
+.language {
+  margin-left: 40%;
+  margin-bottom: 20px;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+.lang {
+  margin-bottom: 20px;
+  margin-top: 15px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+.footdi1 {
+  background-color: rgb(16, 17, 24);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px;
+  gap: 30px;
+}
+.pfot {
+  color: rgb(226, 225, 225);
+  font-size: medium;
+  margin-left: 10%;
+}
+.epfot {
+  color: rgb(255, 255, 255);
+}
+.pft {
+  margin-left: 37%;
+  color: rgb(226, 225, 225);
+}
+.pft1 {
+  margin-left: 40%;
+  margin-top: -11px;
+  margin-bottom: 50px;
+  color: rgb(226, 225, 225);
+}
+.footd {
+  background-color: rgb(16, 17, 24);
+}
+
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  #main, #main2 {
+    flex-direction: column;
+    align-items: center;
+  }
+  .imgcontain {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .d, .d1 {
+    width: 45%;
+  }
+}
+
+@media (max-width: 768px) {
+  #main, #main2 {
+    flex-direction: column;
+    align-items: center;
+  }
+  .imgcontain {
+    flex-direction: column;
+    align-items: center;
+  }
+  .d, .d1 {
+    width: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  #main, #main2 {
+    flex-direction: column;
+    align-items: center;
+  }
+  .imgcontain {
+    flex-direction: column;
+  }
+  .d, .d1 {
+    width: 100%;
+  }
+  #search {
+    width: 90%;
+  }
+  .sebuton {
+    width: 50px;
+  }
+  .footdi {
+    flex-direction: column;
+  }
+}
